@@ -1,3 +1,4 @@
+asgiref==3.2.10
 requests==2.26.0
 django==2.2.16
 djangorestframework==3.12.4
@@ -9,3 +10,7 @@ djangorestframework-simplejwt==4.7.2
 Pillow==8.3.1
 requests==2.26.0
 django_filter
+gunicorn==20.0.4
+psycopg2-binary==2.8.6
+sqlparse==0.3.1
+python-dotenv
